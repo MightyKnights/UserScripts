@@ -4,8 +4,8 @@
 // @namespace    https://github.com/MightyKnights
 // @author       MightyKnight
 // @description  Adds download buttons over the video player to open the direct MP4 link in a new tab on lovehomeporn.com video pages
-// @version      2.0.1
-// @updateURL    https://github.com/MightyKnights/UserScripts/blob/main/LoveHomeScript.js
+// @version      2.0.2
+// @updateURL    https://github.com/MightyKnights/UserScripts/raw/main/LoveHomeScript.js
 // @downloadURL  https://github.com/MightyKnights/UserScripts/blob/main/LoveHomeScript.js
 // @match        https://lovehomeporn.com/video/*
 // @icon         data:image/gif;*We dont do base⁤ 64 codes here*,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
