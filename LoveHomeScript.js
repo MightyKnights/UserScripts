@@ -1,16 +1,17 @@
+// noinspection SpellCheckingInspection,JSUnresolvedVariable,JSUnresolvedFunction,TypeScriptUMDGlobal,JSUnusedGlobalSymbols
 // ==UserScript==
-// @name         LoveHomePorn Free Watch/Download
+// @name         LoveHomeDownload
 // @namespace    https://github.com/MightyKnights
+// @author       MightyKnight
+// @description  Adds download buttons over the video player to open the direct MP4 link in a new tab on lovehomeporn.com video pages
 // @version      2.0
 // @updateURL    https://github.com/MightyKnights/UserScripts/blob/main/LoveHomeScript.js
 // @downloadURL  https://github.com/MightyKnights/UserScripts/blob/main/LoveHomeScript.js
-// @description  Adds download buttons over the video player to open the direct MP4 link in a new tab on lovehomeporn.com video pages.
-// @author       MightyKnight
 // @match        https://lovehomeporn.com/video/*
 // @icon         data:image/gif;*We dont do base⁤ 64 codes here*,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
-// ==/UserScript==
 
+// ==/UserScript==
 (function () {
     'use strict';
 
