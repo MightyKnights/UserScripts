@@ -4,7 +4,7 @@
 // @namespace    https://github.com/MightyKnights
 // @author       MightyKnight
 // @description  Adds download buttons over the video player to open the direct MP4 link in a new tab on lovehomeporn.com video pages
-// @version      2.0
+// @version      2.0.1
 // @updateURL    https://github.com/MightyKnights/UserScripts/blob/main/LoveHomeScript.js
 // @downloadURL  https://github.com/MightyKnights/UserScripts/blob/main/LoveHomeScript.js
 // @match        https://lovehomeporn.com/video/*
@@ -80,8 +80,7 @@
 
     // Create Button Method 2
     const button2 = document.createElement('button');
-    button2.innerText = '▶️ Watch/Download video - Method 2';
-    button2.className = 'myNewButtonClass';
+    button2.textContent = '▶️ Watch/Download video - Method 2';
     button2.style.position = 'absolute';
     button2.style.zIndex = '9999';
     button2.style.padding = '12px 20px';
